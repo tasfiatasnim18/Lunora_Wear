@@ -234,7 +234,24 @@ The engineering team follows:
 ```text
 docs/
 ├── 00_Project_Charter
-├── 01_Product_Requirements
+├── 01_Product_Management/
+│   ├── PRD.md
+│   ├── FEATURE_CATALOG.md
+│   ├── USER_PERSONAS.md
+│   ├── CUSTOMER_JOURNEY.md
+│   ├── BUSINESS_RULES.md
+│   └── RELEASE_PLAN.md
+│
+├── 02_Features/
+│   ├── AUTHENTICATION.md
+│   ├── HOMEPAGE.md
+│   ├── PRODUCT_CATALOG.md
+│   ├── PRODUCT_DETAILS.md
+│   ├── CART.md
+│   ├── CHECKOUT.md
+│   ├── ORDERS.md
+│   ├── INVENTORY.md
+│   └── ...
 ├── 02_Business_Requirements
 ├── 03_Market_Research
 ├── 04_User_Research
